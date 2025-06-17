@@ -52,8 +52,8 @@ class MyApp extends StatelessWidget {
           textTheme: GoogleFonts.montserratTextTheme(), //which one??
           useMaterial3: true,
         ),
-        home: LandingPage(),
-        // home: MyHomePage(),
+        // home: LandingPage(),
+        home: MyHomePage(),
       ),
     );
   }
