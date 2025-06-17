@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "683859487460",
+    "firebase_url": "https://booktable-47252-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "booktable-47252",
+    "storage_bucket": "booktable-47252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683859487460:android:c96eb6ef09ea6735811af1",
+        "android_client_info": {
+          "package_name": "com.example.order_now_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAd9ikNCdzad8QtwAxhTb8TWGDhh1s9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683859487460:android:75f0f77a8830e1b2811af1",
+        "android_client_info": {
+          "package_name": "com.example.order_table"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAd9ikNCdzad8QtwAxhTb8TWGDhh1s9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
